@@ -1,0 +1,30 @@
+main {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    justify-content: center;
+}
+
+form p {
+    display: flex;
+    margin-bottom: 1em;
+}
+
+form label {
+    flex-basis: 33%;
+}
+
+form input, textarea {
+    flex: 1;
+    margin: 0 1em;
+    border-radius: 5px;
+}
+
+form-button {
+    margin-right: 1em;
+} 
+h1{
+    color: #3307ef; font-family: monospace; align-content: center 
+}
+p{ font-family: monospace; color: #3307ef}
+div{ color: #3307ef}
