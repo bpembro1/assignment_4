@@ -3,12 +3,13 @@
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    border-radius: 30px;
+    border-radius: 60px;
     flex-direction: row;
     margin: 0px 20px 20px 20px; 
 }
 .pics a{
    padding: inherit;
+
 }
 .logo {
     padding: .5em;
